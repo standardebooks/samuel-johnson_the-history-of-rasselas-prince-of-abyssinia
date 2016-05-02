@@ -17,14 +17,18 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The History of Rasselas, Prince of Abissinia</dc:title>
+		<meta property="file-as" refines="#title">History of Rasselas, Prince of Abissinia, The</meta>
 		<dc:title id="title-short">Rasselas</dc:title>
 		<meta property="title-type" refines="#title-short">short</meta>
-		<meta property="file-as" refines="#title">SORT</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
-		<meta property="se:subject">TAG</meta>
+		<dc:subject id="subject-1">Satire</dc:subject>
+		<dc:subject id="subject-2">Princes -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Happiness -- Fiction</dc:subject>v
+		<dc:subject id="subject-4">Ethiopia -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/652</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/652</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/652</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/652</meta>
+		<meta property="se:subject">Satire</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -35,18 +39,17 @@
 		<dc:source>http://www.gutenberg.org/ebooks/652</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">WIKILINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_Rasselas,_Prince_of_Abissinia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-johnson_the-history-of-rasselas-prince-of-abissinia</meta>
 		<dc:creator id="author">Samuel Johnson</dc:creator>
-		<meta property="file-as" refines="#author">SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">FULLNAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">NACOAFLINK</meta>
+		<meta property="file-as" refines="#author">Johnson, Samuel</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Samuel_Johnson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095825.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">Henry Morley</dc:contributor>
 		<meta property="file-as" refines="#editor">Morley, Henry</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#editor">NACOAFLINK</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Henry_Morley</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50006134.html</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
@@ -54,13 +57,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">LINK</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
