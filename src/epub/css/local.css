@@ -5,11 +5,15 @@ abbr.name{
 	white-space: nowrap;
 }
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 	text-indent: 0;
 }
-
 
 footer{
 	margin-top: 1em;
