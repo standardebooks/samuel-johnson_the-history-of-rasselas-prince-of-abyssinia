@@ -34,10 +34,12 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
 		</meta>
+		<meta property="se:production-notes">Different editions of Rasselas structure paragraphs differently.  Some put em-dashes where modern editors would put paragraph breaks, others actually put paragraph breaks, and yet others simply remove the em-dashes and create long, run-on paragraphs.  In the interest of modern readers, the Standard Ebooks editors of this edition adopt the paragraph break structure of source texts that break more often (Hathi Trust text #008608968), and additionally insert paragraph breaks where modern readers would expect them in dialog, for example when one character finishes speaking and another begins immediately after.  The editors hope this will make for a smoother reading experience for modern readers without changing the meaning of Johnson's original text.</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/652</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007676236</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/008608968</dc:source>
 		<meta property="se:word-count">37946</meta>
 		<meta property="se:reading-ease.flesch">53.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_Rasselas,_Prince_of_Abissinia</meta>
