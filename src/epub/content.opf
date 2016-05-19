@@ -47,12 +47,12 @@
 		<dc:creator id="author">Samuel Johnson</dc:creator>
 		<meta property="file-as" refines="#author">Johnson, Samuel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Samuel_Johnson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095825.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095825</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">Henry Morley</dc:contributor>
 		<meta property="file-as" refines="#editor">Morley, Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Henry_Morley</meta>
-		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50006134.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n50006134</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
 		<dc:contributor id="artist">Rudolf Ernst</dc:contributor>
