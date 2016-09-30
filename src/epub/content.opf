@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/samuel-johnson/the-history-of-rasselas-prince-of-abyssinia</dc:identifier>
 		<dc:date>2016-05-15T05:08:17Z</dc:date>
-		<meta property="dcterms:modified">2016-05-19T21:59:31Z</meta>
-		<meta property="se:revision-number">4</meta>
+		<meta property="dcterms:modified">2016-09-30T20:45:09Z</meta>
+		<meta property="se:revision-number">5</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,10 +30,11 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/652</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/652</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An Abyssinian prince embarks on adventures while exploring the meaning of happiness.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Rasselas&lt;/i&gt; is a fable-like story, more apologue than novel, written by Johnson in 1759 to help pay for the costs of his recently-deceased mother&amp;rsquo;s funeral.  While the plot is basic and the characters are thin, the work is an important philosophical piece exploring whether or not humanity can attain happiness.&lt;/p&gt;
+			&lt;p&gt;Rasselas, an Abyssinian prince, travels with his sister Nekayah, her handmaiden Pekuah, and the wise poet Imlac&amp;mdash;a proxy for Johnson himself.  Their exploration of happiness and the meaning of leading a happy life is a complex and subtle one, though the work ends with &amp;ldquo;nothing concluded.&amp;rdquo;  Johnson leaves the reader to ponder: Can an individual &lt;em&gt;ever&lt;/em&gt; attain happiness in any meaningful sense?&lt;/p&gt;
 		</meta>
 		<meta property="se:production-notes">Different editions of Rasselas structure paragraphs differently.  Some put em-dashes where modern editors would put paragraph breaks, others actually put paragraph breaks, and yet others simply remove the em-dashes and create long, run-on paragraphs.  In the interest of modern readers, the Standard Ebooks editors of this edition adopt the paragraph break structure of source texts that break more often (Hathi Trust text #008608968), and additionally insert paragraph breaks where modern readers would expect them in dialog, for example when one character finishes speaking and another begins immediately after.  The editors hope this will make for a smoother reading experience for modern readers without changing the meaning of Johnson's original text.</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
