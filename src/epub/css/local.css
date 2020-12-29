@@ -6,6 +6,10 @@
 	text-indent: 0;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
