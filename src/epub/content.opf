@@ -30,7 +30,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The History of Rasselas, Prince of Abyssinia</dc:title>
 		<meta property="file-as" refines="#title">History of Rasselas, Prince of Abyssinia, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="title-short">Rasselas</dc:title>
+		<meta property="file-as" refines="#title-short">Rasselas</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Princes -- Fiction</dc:subject>
