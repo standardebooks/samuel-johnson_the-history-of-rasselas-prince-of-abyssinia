@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/652</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007676236</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008608968</dc:source>
-		<meta property="se:word-count">37929</meta>
+		<meta property="se:word-count">37890</meta>
 		<meta property="se:reading-ease.flesch">54.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_Rasselas,_Prince_of_Abissinia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-johnson_the-history-of-rasselas-prince-of-abyssinia</meta>
